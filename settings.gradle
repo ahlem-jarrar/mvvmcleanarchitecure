@@ -1,0 +1,4 @@
+rootProject.name='MVVMCleanArchitecture'
+include ':app'
+include ':data'
+include ':domain'
