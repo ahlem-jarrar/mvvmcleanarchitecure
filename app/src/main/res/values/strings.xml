@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVVMCleanArchitecture</string>
+    <string name="launcher_activity">Launcher Activity</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
 </resources>
